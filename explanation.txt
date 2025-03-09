@@ -1,0 +1,18 @@
+/*
+---->execute the action 
+dispatch(actionName(payload))
+--->
+this is action
+export const decNumber  = (num) => {
+    return {
+        type: "DECREMENT",
+        payload: num
+    }
+}
+------>
+on the bases of action 
+reducer changes the state(store data)
+
+
+
+*/
