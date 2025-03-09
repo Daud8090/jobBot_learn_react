@@ -1,4 +1,4 @@
-// ------- JOB DASHBOARD (client/src/components/JobDashboard.js) ---
+// ------- JOB DASHBOARD (client/src/components/JobDashboard.js) -------
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
